@@ -7,3 +7,7 @@ GET /
     bootstrap css
     bootstrap js
     jquery js
+
+
+docker build -t username/reponame .
+docker push username/reponame:tagname
